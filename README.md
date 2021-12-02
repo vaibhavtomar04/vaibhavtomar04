@@ -29,4 +29,4 @@
 
 <h3 align="left">Spotify Playing 🎵: </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uxbm4mxkr56rdtjrwbacge5vi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uxbm4mxkr56rdtjrwbacge5vi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=uxbm4mxkr56rdtjrwbacge5vi&redirect=true)
