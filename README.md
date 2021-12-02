@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center"> BCA Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavtomar04&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavtomar04" /> </p>
+<p align="left"><a href="https://gist.github.com/lifeparticle"><img height="100px" width="500px" src="https://gist-count.vercel.app/api?username=vaibhavtomar04"></a>
+  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavtomar04" alt="vaibhavtomar04" /></a> </p>
 
